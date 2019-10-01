@@ -4,7 +4,7 @@
   "description": "gerando qrcode no lado do servidor com express",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./src/index.js"
   },
   "author": "Rodrigo Santos",
   "license": "ISC",
